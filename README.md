@@ -1,4 +1,4 @@
-# 732A82 Lab 3 — Deep Learning (Linköping University)
+# 732A82 Deep Learning - Lab 3 Convolutional Neural Network
 
 This repository contains my work for **Lab 3** in the course **732A82** at Linköping University, Statistics and Machine Learning Master's Programme. The main assignment is implemented in the Jupyter notebook(s) and is shared here as part of my portfolio.
 
@@ -20,7 +20,7 @@ This repository contains my work for **Lab 3** in the course **732A82** at Link�
 
 ## Repository Structure
 - `CNN_Lab.ipynb` — main lab notebook with the full assignment.
-- `CNN_Lab_check_ori.ipynb` — the original notebook from the professor before modification by the student.
+- `CNN_Lab_check_ori.ipynb` — the original notebook from the professor before modification by the students.
 - `utilities.py` — helper functions used by the notebooks.
 - `utilities_ori.py` — helper functions used by the notebooks before modification
 - `images/` — figures and assets.
